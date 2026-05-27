@@ -5,6 +5,8 @@
 <p>
   <b>openpilot is an operating system for robotics.</b>
   <br>
+  <b>openpilot-c is openpilot, in c.</b>
+  <br>
   Currently, it upgrades the driver assistance system in 300+ supported cars.
 
   <b> -> i highly discourage the use of this in any devices, using this fork could lead to bricking your device. <- </b>
