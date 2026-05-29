@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-<h1>openpilot-c (on commit <a href="https://github.com/commaai/openpilot/commit/a8772eb0af40405da7ed812f56902608eb5361bb">a8772eb</a>)</h1>
+<h1>openpilot-c (on commit <a href="https://github.com/commaai/openpilot/commit/4585e93066b86ef8afa0788b7d0dd7249c66932d">4585e93</a>)</h1>
 
 <p>
   <b>openpilot is an operating system for robotics.</b>
