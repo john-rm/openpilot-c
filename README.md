@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-<h1>unofficial openpilot-c</h1>
+<h1>openpilot-c (on commit <a href="https://github.com/commaai/openpilot/commit/a8772eb0af40405da7ed812f56902608eb5361bb">a8772eb</a>)</h1>
 
 <p>
   <b>openpilot is an operating system for robotics.</b>
@@ -10,8 +10,6 @@
   Currently, it upgrades the driver assistance system in 300+ supported cars.
 
   <b> -> i highly discourage the use of this in any devices, using this fork could lead to bricking your device. <- </b>
-  <br>
-  this is a project i am doing just for fun and for a learning experience, most if not all links lead to official sources.
 </p>
 
 <h3>
